@@ -1,5 +1,5 @@
 # MscProj
-Welcome to the git repo for my MSc thesis "Analysis of Success Factors and Preferences in the UK Film Market"
+Welcome to the git repo for Andrew's 2019/20 MSc thesis "Analysis of Success Factors and Preferences in the UK Film Market"
 
 ## Layout 
 
